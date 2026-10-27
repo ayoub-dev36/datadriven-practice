@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/swift_dolphin_9616), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-27 |
 | [Before They Walk](./practice/sql/before-they-walk) | SQL | Medium | 2026-10-09 |
 | [Services at Median Uptime](./practice/sql/services-at-median-uptime) | SQL | Medium | 2026-10-09 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-07 |
